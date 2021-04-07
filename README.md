@@ -7,7 +7,6 @@
 <a href="https://github.com/04fq">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=04fq&&hide_border=true&layout=compact&theme=radical" /></a>
 
-
 ---
 # Social 🤖
 <a href="https://instagram.com/i0.wf">
